@@ -1,1 +1,1 @@
-# {Basic Web Page}
+# Basic Web Page
